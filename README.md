@@ -19,7 +19,12 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+🚀 Featured Project
+Vision Guard
 
+AI-powered intelligent surveillance and campus safety system.
+
+🏆 Winner — Best Startup Idea at Hackolution 2K26
 
 ---
 [![](https://komarev.com/ghpvc/?username=souparnodas244-cmd&icon=0&color=0)](https://visitcount.itsvg.in)
